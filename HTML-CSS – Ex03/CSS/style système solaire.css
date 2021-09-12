@@ -1,0 +1,47 @@
+@charset "utf-8";
+
+body
+{
+	background-color:#000;
+	letter-spacing:lem;
+}
+
+img
+{
+	float:left
+}
+
+h1
+{
+	font-family: 'neon2'
+}
+
+h1
+{
+	color:white
+}
+
+@font-face {
+    font-family: 'neon2';
+    src: url('../Polices/neon2.woff2') format('woff2'),
+         url('../Polices/neon2.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+p
+{
+	color:white
+}
+
+p
+{
+	text-align:justify
+}
+
+span
+{
+    font-weight: bold;
+}
+/* CSS Document */
